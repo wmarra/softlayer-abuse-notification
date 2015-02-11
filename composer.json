@@ -1,0 +1,11 @@
+{
+	"require": {
+  		"slice/http": "~1.1.5"
+   	},
+   	"autoload": {
+   		"psr-0": {
+   			"SoftLayer": "src",
+   			"Slack": "src"
+   		}
+  	}
+}
