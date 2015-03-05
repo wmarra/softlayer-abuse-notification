@@ -4,5 +4,5 @@ namespace Slack;
 
 interface SlackInterface
 {
-	public function getResource(); 
+	public function getResource();
 }
